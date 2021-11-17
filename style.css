@@ -82,7 +82,7 @@
 #main{
     margin-top: 119px;
     background: url('images/junction222.jpg');
-    background-repeat: repeat-y;    
+   
 }
 
 #content{
@@ -113,7 +113,7 @@ a.info-box{
     padding: 0;
     margin-bottom: 0;
     width: 90%;
-    color: brown;
+    color: white;
     
 }
 
@@ -121,7 +121,7 @@ a.info-box{
     margin: 0;
     padding: 0;
     width: 90%;
-    color: black;
+    color: white;
 }
 
 .info-box img.right{
